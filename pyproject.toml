@@ -8,16 +8,16 @@ authors = [ { name = "Parker Higgins", email = "parker@parkerhiggins.net"} ]
 requires-python = ">=3.10"
 dynamic = [ "version" ]
 dependencies = [
-    "beautifulsoup4==4.13.4",
-    "dateparser==1.2.2",
-    "emoji==2.14.1",
-    "html2text==2025.4.15",
-    "lxml==6.1.0",
-    "puzpy==0.6.1",
-    "pyyaml==6.0.2",
-    "requests==2.33.0",
-    "unidecode==1.4.0",
-    "xmltodict==0.14.2",
+    "beautifulsoup4",
+    "dateparser",
+    "emoji",
+    "html2text",
+    "lxml",
+    "puzpy",
+    "pyyaml",
+    "requests",
+    "unidecode",
+    "xmltodict",
 ]
 
 [project.scripts]
